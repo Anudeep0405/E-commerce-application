@@ -26,6 +26,9 @@ Key Insights
 
 🏗️ Component-Based Architecture: The project structure promotes reusability and maintainability, making it easier to manage and update.
 
+![NoteGPT_MindMap_1730811048337](https://github.com/user-attachments/assets/6e8e806e-d360-4b52-8ee8-29a40cbcf5a3)
+
+
 🔄 Real-time State Management: Redux Toolkit simplifies state management, allowing for seamless updates across the application.
 
 📱 UI/UX Focus: Tailwind CSS provides utility-first styling, enabling rapid design iterations and responsive layouts.
